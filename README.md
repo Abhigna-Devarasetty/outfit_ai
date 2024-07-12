@@ -15,5 +15,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/outfitai.git
+   git clone https://github.com/Abhigna-Devarasetty/outfitai.git
    cd outfitai
