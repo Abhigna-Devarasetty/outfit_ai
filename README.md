@@ -1,6 +1,6 @@
 # OutfitAI
 
-OutfitAI is a multimodal GenAI application designed to analyze clothing images and recommend similar items and purchase locations. The project leverages advanced AI technologies such as LangChain and Vertex AI for processing, and provides a user-friendly interface using Streamlit for real-time performance optimization.
+OutfitAI is a multimodal GenAI application designed to analyze clothing images and recommend similar items and purchase locations. The project leverages advanced AI technologies such as LangChain and Vertex AI for processing and provides a user-friendly interface using Streamlit for real-time performance optimization.
 
 ## Features
 
@@ -16,4 +16,4 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/Abhigna-Devarasetty/outfitai.git
-   cd outfitai
+   cd outfit_ai
